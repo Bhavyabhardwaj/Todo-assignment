@@ -56,15 +56,15 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Bhavyabhardwaj/Todo-assignment
 Save to grepper
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 cd react-redux-todo-app
-Install dependencies:
+3. Install dependencies:
 
 bash
 npm install
-Start the development server:
+4. Start the development server:
 
 bash
 npm run dev
